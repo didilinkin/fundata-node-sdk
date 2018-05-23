@@ -1,4 +1,4 @@
-const fetch = require('./lib/fetch')
+const fetch = require('./lib/fetch');
 class Dota {
     constructor(accept_apikey, api_secret) {
         this.accept_apikey = accept_apikey
